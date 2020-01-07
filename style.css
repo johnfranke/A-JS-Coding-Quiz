@@ -1,0 +1,23 @@
+#highscoreslist {
+    background-color: lightslategray;
+    color: white;
+}
+
+#toprow {
+    background-color: lightslategray;
+    padding: 12px;
+    color: white;
+}
+
+#title {
+    padding: 25px 0px 15px 0px;
+}
+
+#rightorwrong {
+    font-style: italic;
+    color: lightslategray;
+}
+
+#highscores {
+    padding: 25px 0px 15px 0px;
+}
