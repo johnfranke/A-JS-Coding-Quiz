@@ -7,4 +7,4 @@ The user is promted with a landing screen that welcomes them to the code and inv
 
 After the user had answered all 5 questions they will see their final score and be prompted to add their initials to the High Scores list. They may input their initials and hit sumbit. Upon submitting their initials they will be directed to the high scores and see their initials with their score added to it. The user then has two options, they can click on the clear high scores button which clears the high scores or they can click the 'back' button to go back to the beginning 'start' screen.
 
-Deployed application: https://johnfranke.github.io/A-JS-Coding-Quiz/
+You may view the quiz here: https://github.com/johnfranke/A-JS-Coding-Quiz
