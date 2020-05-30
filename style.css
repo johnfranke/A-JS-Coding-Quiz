@@ -1,10 +1,14 @@
+body {
+    background: rgb(214, 152, 152);
+}
+
 #highscoreslist {
-    background-color: lightslategray;
+    background-color: rgb(128, 54, 54);
     color: white;
 }
 
 #toprow {
-    background-color: lightslategray;
+    background-color: rgb(128, 54, 54);
     padding: 12px;
     color: white;
 }
@@ -15,7 +19,7 @@
 
 #rightorwrong {
     font-style: italic;
-    color: lightslategray;
+    color: rgb(128, 54, 54);
 }
 
 #highscores {
